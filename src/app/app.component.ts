@@ -11,7 +11,7 @@ export class AppComponent {
   constructor() {}
 
   public ngOnInit(): void {
-    const contador = interval(1000*10);
+    const contador = interval(1000*100);
 
     contador.subscribe((x) => {
       console.log(`Cada ${x} segundo`);
