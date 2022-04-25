@@ -1,3 +1,5 @@
 2022-04-23 22:19:07,441 WARN  [DefaultSoapUICore] Missing folder [/home/javier/ext] for external libraries
 2022-04-23 22:19:07,611 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/javier/soapui-settings.xml]
 2022-04-23 22:19:07,969 INFO  [WorkspaceImpl] Loading workspace from [/home/javier/intellij-soapui-workspace.xml]
+2022-04-24 11:48:30,068 INFO  [WorkspaceImpl] Saved workspace to [/home/javier/intellij-soapui-workspace.xml]
+2022-04-24 11:48:30,094 INFO  [DefaultSoapUICore] Settings saved to [/home/javier/soapui-settings.xml]
